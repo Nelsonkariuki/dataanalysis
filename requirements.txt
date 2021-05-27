@@ -2,4 +2,7 @@
 numpy
 jupiternotebook
 anaconda IDE
+tensorflow
+
+
 
